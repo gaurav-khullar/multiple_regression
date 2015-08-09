@@ -1,0 +1,66 @@
+name,minutes,seconds,seasons,episode_count,screentime_seconds,family,sl_dummy,sex,season_count
+Tyrion Lannister,166,15,"1,2,3",28,9975,Lannister,Lannister,m,3
+Daenerys Targaryen,127,35,"1,2,3",25,7655,Targaryen,Other,f,3
+Jon Snow,126,41,"1,2,3",24,7601,Snow,Other,m,3
+Arya Stark,100,11,"1,2,3",27,6011,Stark,Stark,f,3
+Eddard Stark,94,35,1,9,5675,Stark,Stark,m,1
+Catelyn Stark,91,14,"1,2,3",25,5474,Stark,Stark,f,3
+Cersei Lannister,90,2,"1,2,3",27,5402,Lannister,Lannister,f,3
+Robb Stark,89,16,"1,2,3",22,5356,Stark,Stark,m,3
+Sansa Stark,85,42,"1,2,3",24,5142,Stark,Stark,f,3
+Theon Greyjoy,84,11,"1,2,3",23,5051,Greyjoy,Other,m,3
+Jorah Mormont,72,18,"1,2,3",24,4338,Mormont,Other,m,3
+Jaime Lannister,71,25,"1,2,3",19,4285,Lannister,Lannister,m,3
+Samwell Tarly,61,48,"1,2,3",19,3708,Tarly,Other,m,3
+Petyr Baelish,60,0,"1,2,3",19,3600,Baelish,Other,m,3
+Bran Stark,57,56,"1,2,3",21,3476,Stark,Stark,m,3
+Varys,57,17,"1,2,3",18,3437,Varys,Other,m,3
+Joffrey Baratheon,54,22,"1,2,3",23,3262,Baratheon,Other,m,3
+Tywin Lannister,49,39,"1,2,3",19,2979,Lannister,Lannister,m,3
+Davos Seaworth,44,0,2.3,10,2640,Seaworth,Other,m,2
+Ygritte,42,55,2.3,12,2575,Ygritte,Other,f,2
+Shae,40,45,"1,2,3",16,2445,Shae,Other,f,3
+Brienne of Tarth,39,38,2.3,14,2378,Tarth,Other,f,2
+Gendry,39,14,"1,2,3",17,2354,Gendry,Other,m,3
+Sandor Clegane,39,3,"1,2,3",21,2343,Clegane,Other,m,3
+Bronn,36,54,"1,2,3",16,2214,Bronn,Other,m,3
+Stannis Baratheon,36,45,2.3,12,2205,Baratheon,Other,m,2
+Margaery Tyrell,32,51,2.3,10,1971,Tyrell,Other,f,2
+Talisa Maegyr,32,25,2.3,12,1945,Maegyr,Other,f,2
+Melisandre,32,22,2.3,10,1942,Melisandre,Other,f,2
+Osha,30,53,"1,2,3",14,1853,Osha,Other,f,3
+Robert Baratheon,29,38,1,7,1778,Baratheon,Other,m,1
+Grand Maester Pycelle,28,38,"1,2,3",15,1718,Pycelle,Other,m,3
+Khal Drogo,27,20,1.2,10,1640,Drogo,Other,m,2
+Barristan Selmy,25,43,1.3,13,1543,Selmy,Other,m,2
+Renly Baratheon,25,26,1.2,8,1526,Baratheon,Other,m,2
+Maester Luwin,24,22,1.2,14,1462,Luwin,Other,m,2
+Jeor Mormont,23,42,"1,2,3",12,1422,Mormont,Other,m,3
+Ros,22,12,"1,2,3",15,1332,Ros,Other,f,3
+Loras Tyrell,21,54,"1,2,3",11,1314,Tyrell,Other,m,3
+Viserys Targaryen,20,15,1,5,1215,Targaryen,Other,m,1
+Gilly,18,8,2.3,9,1088,Gilly,Other,f,2
+Rodrik Cassel,16,46,1.2,12,1006,Cassel,Other,m,2
+Hot Pie,15,47,"1,2,3",10,947,Pie,Other,m,3
+Thoros of Myr,15,35,3,6,935,Myr,Other,m,1
+Olenna Tyrell,14,54,3,5,894,Tyrell,Other,f,1
+Yoren,13,48,1.2,7,828,Yoren,Other,m,2
+Ramsay Snow,13,43,3,6,823,Snow,Other,m,1
+Roose Bolton,13,41,2.3,11,821,Bolton,Other,m,2
+Edmure Tully,13,8,3,5,788,Tully,Other,m,1
+Walder Frey,12,26,1.3,3,746,Frey,Other,m,2
+Brynden Tully,12,0,3,5,720,Tully,Other,m,1
+Yara Greyjoy,11,50,2.3,5,710,Greyjoy,Other,f,2
+Missandei,11,39,3,8,699,Missandei,Other,f,1
+Beric Dondarion,11,7,1.3,5,667,Dondarion,Other,m,2
+Tormund Giantsbane,10,27,3,7,627,Giantsbane,Other,m,1
+Daario Naharis,10,12,3,3,612,Naharis,Other,m,1
+Jaqen H?har,8,15,1.2,7,495,H?har,Other,m,2
+Balon Greyjoy,7,58,2;3,3,478,Greyjoy,Other,m,2
+Qyburn,7,16,3,4,436,Qyburn,Other,m,1
+Lysa Arryn,7,3,1,4,423,Arryn,Other,f,1
+Benjen Stark,7,0,1,3,420,Stark,Stark,m,1
+Maester Aemon,6,49,1.3,4,409,Aemon,Other,m,2
+Mance Rayder,6,22,3,3,382,Rayder,Other,m,1
+Syrio Forel,6,15,1,3,375,Forel,Other,m,1
+Robin Arryn,4,37,1,4,277,Arryn,Other,m,1
